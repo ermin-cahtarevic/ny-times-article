@@ -1,24 +1,67 @@
 nav {
   width: 100%;
-  border: 2px solid red;
+  border-bottom: 1px solid gray;
+  height: 43px;
+  
 }
-ul{
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+
+.nab{
+  display: inline-block;
+  width:33.1%;
+  height: 43px;
 }
-li {
-  float: left;
+
+.first-one{
+  position: relative;
+  top: -20px;
 }
-nav ul{
-  list-style: none;
+.nab i {
+  margin-right: 10px;
+  margin-left:10px;
+  margin-bottom: 30px;
 }
-.nav-logo{
+
+.nab a{
+  font-size: 14.25px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+ .nav-logo img{
   width: 195px;
-  height: 35px;
+  height: 26.5x;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 15px;
 }
-nav button{
+
+.third-one{
+  position: relative;
+  top: 10px;
+
+}
+.sub-login{
   float: right;
-  border: 1px solid green;
+  margin: 0 10px;
+}
+
+.third-one a{
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+.third-one button{
+  background-color: rgb(51, 51, 51);
+  border: 1px solid rgb(18, 18, 18);
+  color: rgb(255, 255, 255);
+  width: 64px;
+  height: 32px;
+  border-radius: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  position:relative;
+  top: -5px;
 
 }
