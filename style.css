@@ -1,8 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+}
 nav {
   width: 100%;
   border-bottom: 1px solid gray;
   height: 43px;
-  
+  position: fixed;
+  top: 0;
+  background-color: white;
+  z-index: 1;
 }
 
 .nab{
@@ -64,4 +71,33 @@ nav {
   position:relative;
   top: -5px;
 
+}
+main {
+  position: relative;
+  top: 40px;
+}
+.main-header{
+  display: block;
+  margin: 0 auto;
+}
+main div h1{
+  font-family: georgia,'times new roman',times,serif;
+  font-size: 2.5rem;
+  color: #121212;
+  font-style: italic;
+  font-weight: 700;
+  width: 600px;
+  height: 96px;
+  margin: 25px auto 10px;
+}
+.main-img{
+  width: 1200px;
+  height: 674px;
+  display: block;
+  margin: 0 auto;
+  
+}
+.inflation-img{
+  width: 1200px;
+  height: 674px;
 }
