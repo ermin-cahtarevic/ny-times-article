@@ -170,7 +170,13 @@ main div h1{
 .inflation-style p{
   font-size: 14px;
   width: 218px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+.inflation-style p strong{
+  letter-spacing: .05em;
+  font-size: 11px;
+  font-weight: 800;
 }
 .inflation-img{
   display: block;
@@ -218,3 +224,91 @@ main div h1{
   left: 77%;
 }
 
+.theory{
+  width: 945px;
+  margin: 0 auto;
+}
+
+.theory h4{
+  margin-bottom: 0;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  font-weight: 700;
+  font-family: georgia,times,serif;
+}
+
+.theory p{
+  margin-top: 0;
+  font-size: .875rem;
+  line-height: 1.125rem;
+  font-weight: 400;
+  font-family: georgia,times,serif;
+  color: #666;
+}
+
+.larry{
+  width:945px;
+  margin: 0 auto;
+}
+
+.larry p{
+  font-size: .875rem;
+  line-height: 1.125rem;
+  font-weight: 500;
+  font-style: normal;
+  font-family: arial,helvetica,sans-serif;
+  color: #333;
+}
+
+.stanford{
+  font-size: 1.05rem;
+  line-height: 1rem;
+  font-weight: 550;
+  color: #666;
+  font-family: georgia,'times new roman',times,serif;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.suniversity{
+  font-size: 0.8125rem;
+  color:#888;
+  font-family: nyt-imperial,georgia,'times new roman',times,serif;
+  line-height: 1.125rem;
+  margin-top: 4px;
+}
+
+.bicep{
+  width: 600px;
+}
+
+.version{
+  font-family:  helvetica, arial, sans-serif;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color:rgb(102, 102, 102);
+  margin-top:0 
+}
+
+.readc{
+  margin-top: 20px;
+}
+.readc i{
+  float: right;
+  position: relative;
+  top:6px;
+  margin: 0 10px;
+}
+
+.readc button{
+  background-color: rgb(50, 104, 145);
+  border: 1px solid rgb(50, 104, 145);
+  border-radius: 3px;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  width: 328px;
+  height: 34px;
+}
