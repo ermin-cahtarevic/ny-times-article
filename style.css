@@ -114,10 +114,7 @@ main div h1{
   color: #888;
   margin-top: 0;
 }
-.inflation-img{
-  width: 1200px;
-  height: 674px;
-}
+
 
 .main-text{
   display: block;
@@ -163,4 +160,58 @@ main div h1{
   line-height: 1.875rem;
   font-family: georgia,'times new roman',times,serif;
   color: #333
+}
+.inflation-container{
+  width: 945px;
+  margin-left: auto;
+  margin-right: auto;
+} 
+.inflation-style p{
+  font-size: 14px;
+  width: 220px;
+}
+.inflation-img{
+  display: block;
+  max-width: 945px;
+  height: auto;
+}
+.inflation-1{
+  position: absolute;
+  top: 22%;
+  left: 25.5%;
+}
+.inflation-2{
+  position: absolute;
+  top: 22%;
+  left: 38%;
+}
+ .inflation-3{ 
+  position: absolute;
+  top: 22%;
+  left: 50.5%;
+}
+.inflation-4{
+  position: absolute;
+  top: 22%;
+  left: 63%;
+}
+.inflation-5{
+  position: absolute;
+  top: 24%;
+  left: 25.5%;
+}
+.inflation-6{
+  position: absolute;
+  top: 24%;
+  left: 38%;
+}
+.inflation-7{
+  position: absolute;
+  top: 24%;
+  left: 50.5%;
+}
+.inflation-8{
+  position: absolute;
+  top: 24%;
+  left: 63%;
 }
