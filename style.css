@@ -118,3 +118,49 @@ main div h1{
   width: 1200px;
   height: 674px;
 }
+
+.main-text{
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.author{
+  margin-bottom: 30px;
+}
+
+.author i{
+  float: right;
+  position: relative;
+  bottom: 36px;
+  margin: 0 10px;
+  
+}
+
+.author-firstp{
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.author-firstp a{
+  text-decoration: none;
+  color:#333;
+}
+
+.author-secondp{
+  font-size: 0.8125rem;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  line-height: 1rem;
+
+}
+
+.paragraphs{
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+  font-family: georgia,'times new roman',times,serif;
+  color: #333
+}
