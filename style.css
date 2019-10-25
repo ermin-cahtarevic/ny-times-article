@@ -165,53 +165,56 @@ main div h1{
   width: 945px;
   margin-left: auto;
   margin-right: auto;
+  position: relative;
 } 
 .inflation-style p{
   font-size: 14px;
-  width: 220px;
+  width: 218px;
+
 }
 .inflation-img{
   display: block;
-  max-width: 945px;
+  width: 945px;
   height: auto;
 }
 .inflation-1{
   position: absolute;
   top: 22%;
-  left: 25.5%;
+  left: 2%;
 }
 .inflation-2{
   position: absolute;
   top: 22%;
-  left: 38%;
+  left: 27%;
 }
  .inflation-3{ 
   position: absolute;
   top: 22%;
-  left: 50.5%;
+  left: 52%;
 }
 .inflation-4{
   position: absolute;
   top: 22%;
-  left: 63%;
+  left: 77%;
 }
 .inflation-5{
   position: absolute;
-  top: 24%;
-  left: 25.5%;
+  top: 70%;
+  left: 2%;
 }
 .inflation-6{
   position: absolute;
-  top: 24%;
-  left: 38%;
+  top: 70%;
+  left: 27%;
 }
 .inflation-7{
   position: absolute;
-  top: 24%;
-  left: 50.5%;
+  top: 70%;
+  left: 52%;
 }
 .inflation-8{
   position: absolute;
-  top: 24%;
-  left: 63%;
+  top: 70%;
+  left: 77%;
 }
+
