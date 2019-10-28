@@ -1,10 +1,12 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   padding: 0;
 }
+
 nav {
   width: 100%;
   border-bottom: 1px solid gray;
@@ -25,6 +27,7 @@ nav {
   position: relative;
   top: -20px;
 }
+
 .nab i {
   margin-right: 10px;
   margin-left: 10px;
@@ -41,7 +44,7 @@ nav {
 
 .nav-logo img {
   width: 195px;
-  height: 26.5x;
+  height: 26.5px;
   display: block;
   margin: 0 auto;
   margin-bottom: 15px;
@@ -51,6 +54,7 @@ nav {
   position: relative;
   top: 10px;
 }
+
 .sub-login {
   float: right;
   margin: 0 10px;
@@ -73,10 +77,12 @@ nav {
   position: relative;
   top: -5px;
 }
+
 main {
   position: relative;
   top: 40px;
 }
+
 .main-header {
   display: block;
   margin: 0 auto;
@@ -92,16 +98,19 @@ main div h1 {
   height: 96px;
   margin: 25px auto 10px;
 }
+
 .main-img {
   width: 1200px;
   height: 674px;
 }
+
 .img-subtext-container {
   width: 1200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+
 .main-img-subtext-1 {
   width: 700px;
   font-size: 0.9375rem;
@@ -110,6 +119,7 @@ main div h1 {
   margin-top: 5px;
   margin-bottom: 0; 
 }  
+
 .main-img-subtext-2 {
   font-size: 0.8125rem;
   color: #888;
@@ -159,12 +169,14 @@ main div h1 {
   font-family: georgia,'times new roman',times,serif;
   color: #333;
 }
+
 .inflation-container {
   width: 945px;
   margin-left: auto;
   margin-right: auto;
   position: relative;
 } 
+
 .inflation-style p {
   font-size: 14px;
   width: 218px;
@@ -176,46 +188,55 @@ main div h1 {
   font-size: 11px;
   font-weight: 800;
 }
+
 .inflation-img {
   display: block;
   width: 945px;
   height: auto;
 }
+
 .inflation-1 {
   position: absolute;
   top: 22%;
   left: 2%;
 }
+
 .inflation-2 {
   position: absolute;
   top: 22%;
   left: 27%;
 }
- .inflation-3 { 
+
+.inflation-3 { 
   position: absolute;
   top: 22%;
   left: 52%;
 }
+
 .inflation-4 {
   position: absolute;
   top: 22%;
   left: 77%;
 }
+
 .inflation-5 {
   position: absolute;
   top: 70%;
   left: 2%;
 }
+
 .inflation-6 {
   position: absolute;
   top: 70%;
   left: 27%;
 }
+
 .inflation-7 {
   position: absolute;
   top: 70%;
   left: 52%;
 }
+
 .inflation-8 {
   position: absolute;
   top: 70%;
@@ -291,6 +312,7 @@ main div h1 {
 .readc {
   margin-top: 20px;
 }
+
 .readc i {
   float: right;
   position: relative;
@@ -310,33 +332,40 @@ main div h1 {
   width: 328px;
   height: 34px;
 }
+
 .row {
   width: 1124px;
   height: 1200px;
   margin: 0 auto;
 }
+
 .column {
   float: left;
   border-top: 1px solid black;
   margin-top: 10px;
 }
+
 .column-1 {
   width: 70%;
 }
+
 .column-2 {
   width: 28%;
   float: right;
 }
+
 .first-three {
   display: inline-block;
   width: 30%;
   margin: 0 10px;
 }
+
 .second-three {
   display: inline-block;
   width: 30%;
   margin: 0 10px;
 }
+
 .third-three {
   display: inline-block;
   width: 30%;
@@ -346,10 +375,12 @@ main div h1 {
 .small-article {
   height: 320px;
 }
+
 .article-img {
   width: 100%;
   height: 182px;
 }
+
 .paid-post {
   font-size: 10px;
   color: black;
@@ -358,13 +389,16 @@ main div h1 {
   margin-top: 0;
   margin-bottom: 0;
 }
+
 .paid-post-img {
   width: 80px;
   height: 25px;
 }
+
 .small-article a h2 {
   font-size: 15px;
 }
+
 .description {
   color: grey;
   font-size: 10px;
@@ -406,7 +440,6 @@ a .information {
   margin-bottom: 0;
 }
 
-
 .post-div {
   background-color: rgb(212, 212, 212);
   margin-bottom: 50px;
@@ -447,9 +480,11 @@ aside a {
   color: #333;
   font-size: 18px;
 }
+
 footer {
   border-top: 1px solid rgb(226, 226, 226);
 }
+
 .footer-div {
   display: block;
   width: 1124px;
@@ -457,9 +492,11 @@ footer {
   margin: 0 auto;
   border-top: 5px double rgb(226, 226, 226);
 }
+
 .footer-div > a {
   float: right;
 }
+
 .logo-footer {
   width: 195px;
   height: 32px;
@@ -476,21 +513,26 @@ footer {
   text-decoration: none;
   margin-top: 25px;
 }
+
 .footer-column {
   float: left;
   margin-top: 10px;
 }
+
 .footer-column-1 {
   width: 80%;
 }
+
 .footer-column-2 {
   width: 19%;
   float: right;
 }
+
 .inside-column {
   float: left;
   width: 19%;
 }
+
 .inside-column a {
   display: block;
   padding: 4px 0;
@@ -499,21 +541,25 @@ footer {
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 .inside-column h4, .footer-column-2 h4 {
   font-weight: bold;
   margin-bottom: 10px;
   font-size: 14.5px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 .footer-sub-div {
   display: block;
   height: 26px;
 }
+
 .footer-sub-div img {
   width: 14px;
   height: 20px;
   vertical-align: text-top;
 }
+
 .footer-column-2 > a {
   display: block;
   text-decoration-line: none;
@@ -522,6 +568,7 @@ footer {
   color: black;
   padding: 5px 0;
 }
+
 .footer-sub-div a {
   display: inline-block;
   color: black;
@@ -532,13 +579,16 @@ footer {
   height: 26px;
   margin-top: 0;
 }
+
 .footer-column-2 {
   padding: 15px;
   border-left: 1px solid rgb(204, 204, 204);
 }
+
 .email-top {
   margin-top: 15px;
 }
+
 .footer-column-2 > .mob-app {
   border-top: 1px solid rgb(204, 204, 204);
   margin-top: 10px;
