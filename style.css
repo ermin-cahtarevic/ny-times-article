@@ -103,7 +103,7 @@ main {
 }
 
 main div h1 {
-  font-family: georgia,'times new roman',times,serif;
+  font-family: georgia, 'times new roman', times, serif;
   font-size: 2.5rem;
   color: #121212;
   font-style: italic;
@@ -131,8 +131,8 @@ main div h1 {
   line-height: 1.25rem;
   color: #666;
   margin-top: 5px;
-  margin-bottom: 0; 
-}  
+  margin-bottom: 0;
+}
 
 .main-img-subtext-2 {
   font-size: 0.8125rem;
@@ -180,7 +180,7 @@ main div h1 {
 .paragraphs {
   font-size: 1.25rem;
   line-height: 1.875rem;
-  font-family: georgia,'times new roman',times,serif;
+  font-family: georgia, 'times new roman', times, serif;
   color: #333;
 }
 
@@ -189,7 +189,7 @@ main div h1 {
   margin-left: auto;
   margin-right: auto;
   position: relative;
-} 
+}
 
 .inflation-style p {
   font-size: 14px;
@@ -221,7 +221,7 @@ main div h1 {
   left: 27%;
 }
 
-.inflation-3 { 
+.inflation-3 {
   position: absolute;
   top: 22%;
   left: 52%;
@@ -267,15 +267,15 @@ main div h1 {
   font-size: 1.25rem;
   line-height: 1.5rem;
   font-weight: 700;
-  font-family: georgia,times,serif;
+  font-family: georgia, times, serif;
 }
 
 .theory p {
   margin-top: 0;
-  font-size: .875rem;
+  font-size: 0.875rem;
   line-height: 1.125rem;
   font-weight: 400;
-  font-family: georgia,times,serif;
+  font-family: georgia, times, serif;
   color: #666;
 }
 
@@ -285,11 +285,11 @@ main div h1 {
 }
 
 .larry p {
-  font-size: .875rem;
+  font-size: 0.875rem;
   line-height: 1.125rem;
   font-weight: 500;
   font-style: normal;
-  font-family: arial,helvetica,sans-serif;
+  font-family: arial, helvetica, sans-serif;
   color: #333;
 }
 
@@ -298,7 +298,7 @@ main div h1 {
   line-height: 1rem;
   font-weight: 550;
   color: #666;
-  font-family: georgia,'times new roman',times,serif;
+  font-family: georgia, 'times new roman', times, serif;
   margin-top: 2px;
   margin-bottom: 2px;
 }
@@ -306,7 +306,7 @@ main div h1 {
 .suniversity {
   font-size: 0.8125rem;
   color: #888;
-  font-family: georgia,'times new roman',times,serif;
+  font-family: georgia, 'times new roman', times, serif;
   line-height: 1.125rem;
   margin-top: 4px;
 }
@@ -320,7 +320,7 @@ main div h1 {
   font-size: 0.75rem;
   line-height: 1rem;
   color: rgb(102, 102, 102);
-  margin-top: 0; 
+  margin-top: 0;
 }
 
 .readc {
@@ -434,10 +434,10 @@ a .information {
 }
 
 .date {
-  color:rgb(155, 155, 155);
+  color: rgb(155, 155, 155);
   font-size: 12px;
   margin-top: 0;
-  font-family: georgia, "times new roman", times, serif; 
+  font-family: georgia, "times new roman", times, serif;
 }
 
 .small-article a {
@@ -446,10 +446,10 @@ a .information {
 
 .art-paid {
   font-size: 15px;
-  color:black;
+  color: black;
   font-weight: bold;
   text-decoration-line: none;
-  font-family: georgia, "times new roman", times, serif; 
+  font-family: georgia, "times new roman", times, serif;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -475,7 +475,8 @@ a .information {
   margin-left: 7px;
 }
 
-.popular, .picks {
+.popular, 
+.picks {
   font-family: georgia, "times new roman", times, serif;
   color: #333;
   font-size: 18px;
@@ -504,7 +505,7 @@ footer {
 }
 
 .go-to-page {
-  color:rgb(86, 123, 149);
+  color: rgb(86, 123, 149);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 11px;
   font-style: normal;
@@ -544,7 +545,8 @@ footer {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.inside-column h4, .footer-column-2 h4 {
+.inside-column h4, 
+.footer-column-2 h4 {
   font-weight: bold;
   margin-bottom: 10px;
   font-size: 14.5px;
@@ -637,8 +639,6 @@ section {
 }
 
 .arrow img {
-
   height: 16px;
   width: 16px;
 } 
-
