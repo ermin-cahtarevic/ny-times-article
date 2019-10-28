@@ -15,7 +15,7 @@ Clone of a NY Times article
 
 URL to the live version of our project: [NY TIMES ARTICLE](https://rawcdn.githack.com/ermin-cahtarevic/ny-times-article/ef468c367b1ec20e6574648cd27e9afc5927e131/index.html)
 
-This a form rebuild from a Ny Times article. The page we use for reference is [NY TIMES](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0)
+This a rebuild from a Ny Times article. The page we use for reference is [NY TIMES](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0)
 
 ### Built With
 
@@ -40,7 +40,7 @@ Melissa Castorena - mcastorena0316@gmail.com
 
 Ermin Cahtarevic - erminc@windowslive.com
 
-Project Link: [HTML Forms](https://github.com/ermin-cahtarevic/ny-times-article/tree/feature-branch)
+Project Link: [New York Times Article](https://github.com/ermin-cahtarevic/ny-times-article/tree/feature-branch)
 
 
 
