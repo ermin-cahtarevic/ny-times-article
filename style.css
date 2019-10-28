@@ -50,7 +50,6 @@ nav {
 .third-one{
   position: relative;
   top: 10px;
-
 }
 .sub-login{
   float: right;
@@ -73,7 +72,6 @@ nav {
   font-weight: 600;
   position:relative;
   top: -5px;
-
 }
 main {
   position: relative;
@@ -134,7 +132,6 @@ main div h1{
   position: relative;
   bottom: 36px;
   margin: 0 10px;
-  
 }
 
 .author-firstp{
@@ -155,7 +152,6 @@ main div h1{
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
   line-height: 1rem;
-
 }
 
 .paragraphs{
@@ -321,7 +317,6 @@ main div h1{
   margin: 0 auto;
 }
 .column{
-  
   float: left;
   border-top: 1px solid black;
   margin-top: 10px;
@@ -425,7 +420,6 @@ a .information {
 
 .modern-text{
   height: 40px;
-  
 }
 
 .editors{
@@ -454,7 +448,6 @@ aside a{
   font-family:  georgia, "times new roman", times, serif;
   color: #333;
   font-size: 18px;
-
 }
 footer{
   border-top: 1px solid rgb(226, 226, 226);
@@ -488,7 +481,6 @@ footer{
 .footer-column{
   float: left;
   margin-top: 10px;
-
 }
 .footer-column-1{
   width: 80%;
@@ -569,7 +561,6 @@ footer{
   font-family: Arial, Helvetica, sans-serif;
   text-decoration-line: none;
   margin: 0 5px;
- 
 }
 
 section {
@@ -581,7 +572,6 @@ section {
   bottom: 0;
   width: 100%;
   padding-top:18px;
-
 }
 
 .access{
@@ -599,12 +589,11 @@ section {
   position: absolute;
   right: 140px;
   bottom: -19px;
-  
 }
 
 .arrow img{
 
   height: 16px;
   width: 16px;
-  
 } 
+
