@@ -462,7 +462,7 @@ footer{
 .footer-div{
   display: block;
   width: 1124px;
-  height: 450px;
+  height: 470px;
   margin: 0 auto;
   border-top: 5px double rgb(226, 226, 226);
 }
@@ -470,8 +470,20 @@ footer{
   float: right;
 }
 .logo-footer{
-  width:184px;
-  height:44px;
+  width:195px;
+  height: 32px;
+  margin-top:10px;
+}
+
+.go-to-page{
+  color:rgb(86, 123, 149);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 11px;
+  text-decoration: none;
+  margin-top: 25px;
 }
 .footer-column{
   float: left;
@@ -542,3 +554,58 @@ footer{
   margin-top: 10px;
   padding-top: 15px;
 }
+
+.copyright{
+  width: 1124px;
+  margin: 0 auto;
+  border-top: 1px solid rgb(226, 226, 226);
+  text-align: center;
+  padding-top: 15px;
+}
+
+.copyright a{
+  color: rgb(153, 153, 153);
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-line: none;
+  margin: 0 5px;
+ 
+}
+
+section {
+  height: 56px;
+  text-align: center;
+  border-top: 1px solid black;
+  position: fixed;
+  background-color: white;
+  bottom: 0;
+  width: 100%;
+  padding-top:18px;
+
+}
+
+.access{
+  font-size: 15px;
+  text-decoration-line: none;
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.arrow-div{
+  width: 200px;
+  height: 56px;
+  text-align: center;
+  position: absolute;
+  right: 140px;
+  bottom: -19px;
+  
+
+}
+
+.arrow img{
+
+  height: 16px;
+  width: 16px;
+  
+} 
