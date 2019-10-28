@@ -409,6 +409,10 @@ main div h1 {
   height: 25px;
 }
 
+section h2 {
+  margin: 0;
+}
+
 .small-article a h2 {
   font-size: 15px;
 }
@@ -509,7 +513,7 @@ footer {
   line-height: 11px;
   text-decoration: none;
   margin-top: 25px;
-  float:right;
+  float: right;
 }
 
 .footer-column {
@@ -616,10 +620,6 @@ section {
   bottom: 0;
   width: 100%;
   padding-top: 18px;
-}
-
-section h2 {
-  margin: 0;
 }
 
 .access {
