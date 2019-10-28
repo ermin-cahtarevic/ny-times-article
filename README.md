@@ -13,7 +13,7 @@ Clone of a NY Times article
 ## About The Project
 
 
-URL to the live version of our project: [NY TIMES ARTICLE](https://rawcdn.githack.com/ermin-cahtarevic/ny-times-article/ef468c367b1ec20e6574648cd27e9afc5927e131/index.html)
+URL to the live version of our project: [NY TIMES ARTICLE](https://rawcdn.githack.com/ermin-cahtarevic/ny-times-article/aa1fb46b50a8e775b90627dae42f1b2371bf5113/index.html)
 
 This a rebuild from a Ny Times article. The page we use for reference is [NY TIMES](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0)
 
