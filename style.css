@@ -34,6 +34,20 @@ nav {
   margin-bottom: 30px;
 }
 
+aside a {
+  display: block;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-top: 15px;
+  border-top: 1px rgb(202, 202, 202) solid;
+  font-family: georgia, "times new roman", times, serif;
+  line-height: 22px;
+  color: black;
+  font-weight: 500;
+  text-decoration-line: none;
+}
+
 .nab a {
   font-size: 14.25px;
   font-weight: 700;
@@ -461,20 +475,6 @@ a .information {
   margin-left: 7px;
 }
 
-aside a {
-  display: block;
-  font-size: 20px;
-  margin-top: 15px;
-  margin-bottom: 15px;
-  padding-top: 15px;
-  border-top: 1px rgb(202, 202, 202) solid;
-  font-family: georgia, "times new roman", times, serif;
-  line-height: 22px;
-  color: black;
-  font-weight: 500;
-  text-decoration-line: none;
-}
-
 .popular, .picks {
   font-family: georgia, "times new roman", times, serif;
   color: #333;
@@ -526,6 +526,8 @@ footer {
 .footer-column-2 {
   width: 19%;
   float: right;
+  padding: 15px;
+  border-left: 1px solid rgb(204, 204, 204);
 }
 
 .inside-column {
@@ -578,11 +580,6 @@ footer {
   font-weight: 600;
   height: 26px;
   margin-top: 0;
-}
-
-.footer-column-2 {
-  padding: 15px;
-  border-left: 1px solid rgb(204, 204, 204);
 }
 
 .email-top {
