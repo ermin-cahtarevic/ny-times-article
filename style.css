@@ -17,7 +17,7 @@ nav {
 
 .nab {
   display: inline-block;
-  width:33.1%;
+  width: 33.1%;
   height: 43px;
 }
 
@@ -27,7 +27,7 @@ nav {
 }
 .nab i {
   margin-right: 10px;
-  margin-left:10px;
+  margin-left: 10px;
   margin-bottom: 30px;
 }
 
@@ -70,7 +70,7 @@ nav {
   border-radius: 3px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
-  position:relative;
+  position: relative;
   top: -5px;
 }
 main {
@@ -97,7 +97,7 @@ main div h1 {
   height: 674px;
 }
 .img-subtext-container {
-  width:1200px;
+  width: 1200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -142,7 +142,7 @@ main div h1 {
 
 .author-firstp a {
   text-decoration: none;
-  color:#333;
+  color: #333;
 }
 
 .author-secondp {
@@ -157,7 +157,7 @@ main div h1 {
   font-size: 1.25rem;
   line-height: 1.875rem;
   font-family: georgia,'times new roman',times,serif;
-  color: #333
+  color: #333;
 }
 .inflation-container {
   width: 945px;
@@ -172,7 +172,7 @@ main div h1 {
 }
 
 .inflation-style p strong {
-  letter-spacing: .05em;
+  letter-spacing: 0.05em;
   font-size: 11px;
   font-weight: 800;
 }
@@ -245,7 +245,7 @@ main div h1 {
 }
 
 .larry {
-  width:945px;
+  width: 945px;
   margin: 0 auto;
 }
 
@@ -270,8 +270,8 @@ main div h1 {
 
 .suniversity {
   font-size: 0.8125rem;
-  color:#888;
-  font-family: nyt-imperial,georgia,'times new roman',times,serif;
+  color: #888;
+  font-family: georgia,'times new roman',times,serif;
   line-height: 1.125rem;
   margin-top: 4px;
 }
@@ -281,11 +281,11 @@ main div h1 {
 }
 
 .version {
-  font-family:  helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 0.75rem;
   line-height: 1rem;
-  color:rgb(102, 102, 102);
-  margin-top:0 
+  color: rgb(102, 102, 102);
+  margin-top: 0; 
 }
 
 .readc {
@@ -294,7 +294,7 @@ main div h1 {
 .readc i {
   float: right;
   position: relative;
-  top:6px;
+  top: 6px;
   margin: 0 10px;
 }
 
@@ -312,7 +312,7 @@ main div h1 {
 }
 .row {
   width: 1124px;
-  height:1200px;
+  height: 1200px;
   margin: 0 auto;
 }
 .column {
@@ -352,7 +352,7 @@ main div h1 {
 }
 .paid-post {
   font-size: 10px;
-  color:black;
+  color: black;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   margin-top: 0;
@@ -382,7 +382,7 @@ a .information {
   font-family: georgia, "times new roman", times, serif;
   line-height: 20px;
   margin-top: 0;
-  margin-bottom:0
+  margin-bottom: 0;
 }
 
 .date {
@@ -403,7 +403,7 @@ a .information {
   text-decoration-line: none;
   font-family: georgia, "times new roman", times, serif; 
   margin-top: 0;
-  margin-bottom:0
+  margin-bottom: 0;
 }
 
 
@@ -435,7 +435,7 @@ aside a {
   margin-bottom: 15px;
   padding-top: 15px;
   border-top: 1px rgb(202, 202, 202) solid;
-  font-family:  georgia, "times new roman", times, serif;
+  font-family: georgia, "times new roman", times, serif;
   line-height: 22px;
   color: black;
   font-weight: 500;
@@ -443,7 +443,7 @@ aside a {
 }
 
 .popular, .picks {
-  font-family:  georgia, "times new roman", times, serif;
+  font-family: georgia, "times new roman", times, serif;
   color: #333;
   font-size: 18px;
 }
@@ -461,9 +461,9 @@ footer {
   float: right;
 }
 .logo-footer {
-  width:195px;
+  width: 195px;
   height: 32px;
-  margin-top:10px;
+  margin-top: 10px;
 }
 
 .go-to-page {
@@ -569,13 +569,13 @@ section {
   background-color: white;
   bottom: 0;
   width: 100%;
-  padding-top:18px;
+  padding-top: 18px;
 }
 
 .access {
   font-size: 15px;
   text-decoration-line: none;
-  color:black;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
