@@ -317,6 +317,7 @@ main div h1{
 }
 .row{
   width: 1124px;
+  height:1200px;
   margin: 0 auto;
 }
 .column{
@@ -454,4 +455,90 @@ aside a{
   color: #333;
   font-size: 18px;
 
+}
+footer{
+  border-top: 1px solid rgb(226, 226, 226);
+}
+.footer-div{
+  display: block;
+  width: 1124px;
+  height: 450px;
+  margin: 0 auto;
+  border-top: 5px double rgb(226, 226, 226);
+}
+.footer-div > a{
+  float: right;
+}
+.logo-footer{
+  width:184px;
+  height:44px;
+}
+.footer-column{
+  float: left;
+  margin-top: 10px;
+
+}
+.footer-column-1{
+  width: 80%;
+}
+.footer-column-2{
+  width: 19%;
+  float: right;
+}
+.inside-column{
+  float: left;
+  width: 19%;
+}
+.inside-column a{
+  display: block;
+  padding: 4px 0;
+  color: black;
+  text-decoration-line: none;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.inside-column h4, .footer-column-2 h4{
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 14.5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer-sub-div{
+  display: block;
+  height: 26px;
+}
+.footer-sub-div img{
+  width: 14px;
+  height: 20px;
+  vertical-align: text-top;
+}
+.footer-column-2 > a{
+  display: block;
+  text-decoration-line: none;
+  font-size: 11px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding: 5px 0;
+}
+.footer-sub-div a{
+  display: inline-block;
+  color: black;
+  text-decoration-line: none;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  height: 26px;
+  margin-top: 0;
+}
+.footer-column-2{
+  padding: 15px;
+  border-left: 1px solid rgb(204, 204, 204);
+}
+.email-top{
+  margin-top: 15px;
+}
+.footer-column-2 > .mob-app{
+  border-top: 1px solid rgb(204, 204, 204);
+  margin-top: 10px;
+  padding-top: 15px;
 }
