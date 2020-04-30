@@ -5,6 +5,7 @@ Clone of a NY Times article
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Get a local copy](#get-a-local-copy)
 * [Contributing](#contributing)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -21,6 +22,24 @@ This a rebuild from a Ny Times article. The page we use for reference is [NY TIM
 
 * [HTML](https://github.com/ermin-cahtarevic/ny-times-article/blob/feature-branch/index.html)
 * [CSS](https://github.com/ermin-cahtarevic/ny-times-article/blob/feature-branch/style.css)
+
+### Get a local copy
+
+**Clone the repository by running this command in your terminal**
+```
+git clone git@github.com:ermin-cahtarevic/ny-times-article.git
+```
+
+**Navigate into the newly created folder**
+```
+cd ny-times-article
+```
+
+**Open the index.html file in your browser to see the website** 
+
+**Tests**
+
+Tests have not been added yet, they are something that should be added eventually
 
 ## Contributing
 
